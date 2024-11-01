@@ -22,6 +22,7 @@
     "@angular/core": "^15.0.0"
   },
   "dependencies": {
+    "@tomalaforge/ngrx-callstate-store": "file:",
     "tslib": "^2.3.0"
   }
 }
